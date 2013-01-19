@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Welcome to use Baidu LocSDK!</string>
+    <string name="app_name">locSDK_3.x_Demo1</string>
+</resources>
